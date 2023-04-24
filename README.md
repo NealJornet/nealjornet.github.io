@@ -15,9 +15,16 @@
     </p>
 </p>
 
-## Install
+## Installation
 
-In VSC press Ctrl+Shift+P (Cmd+Shift+P on Mac) then type ">ext install", hit enter, search "Darcula Dark".
+You can simply install any VS Code extension via the VS Code Marketplace. Just click the
+banner below:
+
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-sundial">
+    <img src="https://img.shields.io/badge/install-vscode_extension-blue.svg?style=for-the-badge" alt="Install VS Code extension Sundial">
+  </a>
+</p>
 
 ## License
 
