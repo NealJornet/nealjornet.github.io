@@ -1,0 +1,6 @@
+# Analytics
+analytics:
+  provider                  : "google-gtag"
+  google:
+    measurement_id          : "G-D2RL4M3C84"
+    anonymize_ip            : false
