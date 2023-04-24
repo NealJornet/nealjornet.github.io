@@ -1,4 +1,10 @@
+# _config.yml
+
 # Analytics
+remote_theme: jekyll/minim
+plugins:
+  jekyll-remote-theme
+google_analytics: G-D2RL4M3C84
 analytics:
   provider                  : "google-gtag"
   google:
