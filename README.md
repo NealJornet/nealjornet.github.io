@@ -21,8 +21,8 @@ You can simply install any VS Code extension via the VS Code Marketplace. Just c
 banner below:
 
 <p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-sundial">
-    <img src="https://img.shields.io/badge/install-vscode_extension-blue.svg?style=for-the-badge" alt="Install VS Code extension Sundial">
+  <a href="https://marketplace.visualstudio.com/items?itemName=NealKornet.theme-darcula-dark">
+    <img src="https://img.shields.io/badge/install-vscode_extension-blue.svg?style=for-the-badge" alt="Install VS Code Darcula Dark">
   </a>
 </p>
 
